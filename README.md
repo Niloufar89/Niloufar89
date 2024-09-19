@@ -24,7 +24,7 @@ I am passionate about using data to solve real-world problems, especially in the
 - **Research**: Analyzing driver behavior during hurricane evacuations using mixed-effects models
 
 ### 📫 How to Reach Me:
-- **Email**: (mailto: roozegar.niloufar89@gmail.com)
+- **Email**: [ roozegar.niloufar89@gmail.com]
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/niloufar-roozegar/)
 - **GitHub**: [GitHub Profile](https://github.com/Niloufar89)
 
