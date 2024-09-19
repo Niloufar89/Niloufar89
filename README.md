@@ -3,8 +3,6 @@
 I am passionate about using data to solve real-world problems, especially in the areas of transportation, machine learning, and natural language processing (NLP). I have experience working with a wide range of tools and technologies, and I am currently focusing on expanding my expertise in AI and data engineering.
 
 
-**Niloufar89/Niloufar89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🌱 I’m currently learning: 
 - Generative AI (GenAI) tools and techniques
 - Advanced NLP model optimization
