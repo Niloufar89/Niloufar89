@@ -27,7 +27,7 @@ I am passionate about using data to solve real-world problems, especially in the
 - **GitHub**: [GitHub Profile](https://github.com/Niloufar89)
 
 ### ⚡🌟 Fun Fact:
-I have a phobia of needles, but that hasn’t stopped me from diving into data science! I’m also known for my patience and ability to learn fast 🧠.
+I have a phobia of needles, but that hasn’t stopped me from diving into data science! I’m also known for my patience and ability to learn fast 🧠
 
 ### 🛠️ Programming Languages and Technologies:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -65,13 +65,13 @@ I have a phobia of needles, but that hasn’t stopped me from diving into data s
 
 ### 🎓 Education:
 - **M.S. in Computer Science (Big Data Systems)**, Arizona State University
-- **M.S. in Industrial Management (Production)**, Yazd University
-- **B.S. in Information Technology**, Fars Science and Research University
+- **M.S. in Industrial Management (Production)**
+- **B.S. in Information Technology**
 
 ### 🌐 Let's Connect:
-- Feel free to reach out if you'd like to collaborate on interesting projects
+- Feel free to reach out if you'd like to collaborate on interesting projects.
 
 ### 🏆 Research:
-- Presented research on driver behavior during the 2024 FAV Summit
+- Presented research on driver behavior during the 2024 FAV Summit.
 - Submitted research papers to TRB Conference on Evaluation of Driver's Behavior during Hurricane Ian.
 
