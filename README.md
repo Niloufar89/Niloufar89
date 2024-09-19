@@ -73,7 +73,7 @@ I have a phobia of needles, but that hasn’t stopped me from diving into data s
 ### 🌐 Let's Connect:
 - Feel free to reach out if you'd like to collaborate on interesting projects
 
-### 🏆 Achievements:
+### 🏆 Research:
 - Presented research on driver behavior during the 2024 FAV Summit
 - Submitted research papers to TRB Conference on Evaluation of Driver's Behavior during Hurricane Ian.
 
