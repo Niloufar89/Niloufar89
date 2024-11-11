@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Niloufar Roozegar (Nellie)
-## 🚀 Data Scientist | Big Data Systems Expert | Researcher
+## 🚀 Data Scientist | Big Data Systems Expert | Researcher | Business Analyst
 I am passionate about using data to solve real-world problems, especially in the areas of transportation, machine learning, and natural language processing (NLP). I have experience working with a wide range of tools and technologies, and I am currently focusing on expanding my expertise in AI and data engineering.
 
 
